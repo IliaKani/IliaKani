@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer based in Berlin</h3>
 
 
-- 🔭 I’m currently working on [What to watch](https://github.com/IliaKani/what-to-watch)
+- 🔭 I’m currently working on [ecommerce project]
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://iliakani.github.io/portfolio/](https://iliakani.github.io/portfolio/)
 
