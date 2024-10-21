@@ -1,32 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">A passionate frontend developer based in Berlin</h3>
 
+# Hey there! 👋
 
-Hey there! 👋
+I'm Ilia, a frontend developer based in Berlin with 2 years of experience building aesthetic, responsive web interfaces. I thrive on the challenge of making the web not just look good, but work even better.
 
-I'm Ilia, a frontend developer based in Berlin with 2 years of experience building aestetic, responsive web interfaces. I thrive on the challenge of making the web not just look good, but work even better.
-
-🔭 Currently working on:
+## 🔭 Currently working on:
 An exciting ecommerce project that's keeping things fresh!
 
-📚 Learning:
+## 📚 Learning:
 Diving into Next.js to sharpen my React skills!
 
-🌱 My focus areas:
-Creating seamless user experiences.
-Optimizing performance and responsiveness across devices.
-Exploring new technologies and frameworks.
+## 🌱 My focus areas:
+- Creating seamless user experiences.
+- Optimizing performance and responsiveness across devices.
+- Exploring new technologies and frameworks.
 
-🧩 What I enjoy:
-Pushing pixels and solving puzzles—like that tricky layout issue!
-Collaborating with teams to turn ideas into reality.
-Exploring Berlin with my dog 🐕 or tackling my next random side project 🎨.
+## 🧩 What I enjoy:
+- Pushing pixels and solving puzzles—like that tricky layout issue!
+- Collaborating with teams to turn ideas into reality.
+- Exploring Berlin with my dog 🐕 or tackling my next random side project 🎨.
 
-🌐 Check out my work:
-iliakani.github.io/portfolio
+## 🌐 Check out my work:
+[iliakani.github.io/portfolio](https://iliakani.github.io/portfolio)
 
-📫 Let’s connect:
-Feel free to email me at kanishchev.ilia@gmail.com!
+## 📫 Let’s connect:
+Feel free to email me at [kanishchev.ilia@gmail.com](mailto:kanishchev.ilia@gmail.com)!
 
 <h3>Things I code with</h3>
 <p>
