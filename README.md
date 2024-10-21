@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ilia</h1>
-<h3 align="center">A passionate frontend developer based in Berlin</h3>
-
 # Hey there! 👋
 
 I'm Ilia, a frontend developer based in Berlin with 2 years of experience building aesthetic, responsive web interfaces. I thrive on the challenge of making the web not just look good, but work even better.
