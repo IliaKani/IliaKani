@@ -2,14 +2,31 @@
 <h3 align="center">A passionate frontend developer based in Berlin</h3>
 
 
-- 🔭 I’m currently working on [ecommerce project]
+Hey there! 👋
 
-- 🌱 I’m currently learning **Next JS**
+I'm Ilia, a frontend developer based in Berlin with 2 years of experience building aestetic, responsive web interfaces. I thrive on the challenge of making the web not just look good, but work even better.
 
-- 👨‍💻 All of my projects are available at [https://iliakani.github.io/portfolio/](https://iliakani.github.io/portfolio/)
+🔭 Currently working on:
+An exciting ecommerce project that's keeping things fresh!
 
-- 📫 How to reach me **kanishchev.ilia@gmail.com**
+📚 Learning:
+Diving into Next.js to sharpen my React skills!
 
+🌱 My focus areas:
+Creating seamless user experiences.
+Optimizing performance and responsiveness across devices.
+Exploring new technologies and frameworks.
+
+🧩 What I enjoy:
+Pushing pixels and solving puzzles—like that tricky layout issue!
+Collaborating with teams to turn ideas into reality.
+Exploring Berlin with my dog 🐕 or tackling my next random side project 🎨.
+
+🌐 Check out my work:
+iliakani.github.io/portfolio
+
+📫 Let’s connect:
+Feel free to email me at kanishchev.ilia@gmail.com!
 
 <h3>Things I code with</h3>
 <p>
