@@ -1,16 +1,16 @@
-Hey! 👋  I’m Ilia, a frontend developer from Berlin with 2 years of experience making the web look good and work even better.
+**Hey!** 👋  I’m Ilia, a frontend developer from Berlin with 2 years of experience making the web look good and work even better.
 
-🔧 **Current gig** : Working on an ecommerce project that’s keeping me on my toes!
+🔧 **Current gig**: Working on an ecommerce project that’s keeping me on my toes!
 
-⚙️ **Learning** : Next.js because, well, why not level up?
+⚙️ **Learning**: Next.js because, well, why not level up?
 
-💡 **What I do** : Debug like my life depends on it.
+💡 **What I do**: Debug like my life depends on it.
 
-🎨 **Fun stuff** : Big fan of chess ♟️—always thinking a few moves ahead, but not always in the right direction.
+🎨 **Fun stuff**: Big fan of chess ♟️—always thinking a few moves ahead, but not always in the right direction.
 
-🌐 **Check out my work:[Portfolio](https://iliakani.github.io/portfolio)
+🌐 **Check out my work**:[Portfolio](https://iliakani.github.io/portfolio)
 
-📫 **Let’s connect: Feel free to email me at [kanishchev.ilia@gmail.com](mailto:kanishchev.ilia@gmail.com)!
+📫 **Let’s connect**: Feel free to email me at [kanishchev.ilia@gmail.com](mailto:kanishchev.ilia@gmail.com)!
 
 <h3>Things I code with</h3>
 <p>
