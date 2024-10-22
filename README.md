@@ -8,7 +8,7 @@
 
 🎨 **Fun stuff**: Big fan of chess ♟️—always thinking a few moves ahead, but not always in the right direction.
 
-🌐 **Check out my work**:[Portfolio](https://iliakani.github.io/portfolio)
+🌐 **Check out my work**: [Portfolio](https://iliakani.github.io/portfolio)
 
 📫 **Let’s connect**: Feel free to email me at [kanishchev.ilia@gmail.com](mailto:kanishchev.ilia@gmail.com)!
 
