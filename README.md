@@ -1,22 +1,20 @@
-# Hey there! 👋
+# Hey! 👋
+I’m Ilia, a frontend developer from Berlin with 2 years of experience making the web look good and work even better.
 
-I'm Ilia, a frontend developer based in Berlin with 2 years of experience building aesthetic, responsive web interfaces. I thrive on the challenge of making the web not just look good, but work even better.
+## 🔧 Current gig:
+Working on an ecommerce project that’s keeping me on my toes!
 
-## 🔭 Currently working on:
-An exciting ecommerce project that's keeping things fresh!
+## ⚙️ Learning:
+Next.js because, well, why not level up?
 
-## 📚 Learning:
-Diving into Next.js to sharpen my React skills!
+## 💡 What I do:
+* Craft smooth, responsive sites.
+* Debug like my life depends on it.
+* Experiment with shiny new tools and frameworks.
 
-## 🌱 My focus areas:
-- Creating seamless user experiences.
-- Optimizing performance and responsiveness across devices.
-- Exploring new technologies and frameworks.
-
-## 🧩 What I enjoy:
-- Pushing pixels and solving puzzles—like that tricky layout issue!
-- Collaborating with teams to turn ideas into reality.
-- Exploring Berlin with my dog 🐕 or tackling my next random side project 🎨.
+## 🎨 Fun stuff:
+* Designing pixels 🎨, fixing bugs 🐛, and convincing my dog 🐕 to share my chair.
+* Big fan of chess ♟️—always thinking a few moves ahead, but not always in the right direction.
 
 ## 🌐 Check out my work:
 [iliakani.github.io/portfolio](https://iliakani.github.io/portfolio)
