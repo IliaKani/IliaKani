@@ -2,7 +2,7 @@
 
 🔧 **Current gig**: Working on an ecommerce project that’s keeping me on my toes!
 
-⚙️ **Learning**: Next.js because, well, why not level up?
+⚙️ **Learning**: Flutter because, well, why not level up?
 
 💡 **What I do**: Debug like my life depends on it.
 
