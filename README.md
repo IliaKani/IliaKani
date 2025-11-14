@@ -10,8 +10,6 @@
 
 🌐 **Check out my work**: [Portfolio](https://iliakani.github.io/portfolio)
 
-📫 **Let’s connect**: Feel free to email me at [kanishchev.ilia@gmail.com](mailto:kanishchev.ilia@gmail.com)!
-
 <h3>Things I code with</h3>
 <p>
   <img alt="JS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
