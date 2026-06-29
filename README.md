@@ -1,4 +1,4 @@
-**Hey!** 👋  I’m Ilia, a frontend developer from Berlin with 3+ years of experience making the web look good and work even better.
+**Hey!** 👋  I’m Ilia, a frontend developer from Berlin making the web look good and work even better.
 
 🔧 **Current gig**: Working on an ecommerce project that’s keeping me on my toes!
 
